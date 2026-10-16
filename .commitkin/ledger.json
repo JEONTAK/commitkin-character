@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ledger",
+  "rulesetVersion": "1.0.0",
+  "recordRevision": 2,
+  "owner": {
+    "accountId": "76037656",
+    "profileRepositoryId": "1421634321"
+  },
+  "repositories": [
+    {
+      "id": "321604510",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "354333706",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "362396692",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "496149735",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "707592832",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "710171400",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "714502547",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "773666201",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "820302022",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "833458626",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "907641952",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "910027050",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "937856743",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "945693416",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "968352410",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "972614349",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "979151937",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "979152103",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "988157819",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "1014108297",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "1420061458",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    },
+    {
+      "id": "1421634321",
+      "firstObservedAt": "2026-10-16T05:06:47.385Z",
+      "ownershipAtFirstObservation": "self",
+      "tracking": "active",
+      "discoveredVia": [
+        "automatic"
+      ]
+    }
+  ],
+  "scopes": [
+    {
+      "id": "v1:sha256:d2d1529ba27e19c0e8022b3511537d82aa777d51c4cdfbddbfeacc98e3baaf32",
+      "rulesetVersion": "1.0.0",
+      "analysisConfigHash": "v1:sha256:68dfaf3c54c2062cbec3962935f02e0358acdc49ea5e8b7fd3e6d3f7782d249d",
+      "repositoryIds": [
+        "321604510",
+        "354333706",
+        "362396692",
+        "496149735",
+        "707592832",
+        "710171400",
+        "714502547",
+        "773666201",
+        "820302022",
+        "833458626",
+        "907641952",
+        "910027050",
+        "937856743",
+        "945693416",
+        "968352410",
+        "972614349",
+        "979151937",
+        "979152103",
+        "988157819",
+        "1014108297",
+        "1420061458",
+        "1421634321"
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "startDate": "2026-07-18",
+      "endDateExclusive": "2026-10-16",
+      "scopeId": "v1:sha256:d2d1529ba27e19c0e8022b3511537d82aa777d51c4cdfbddbfeacc98e3baaf32",
+      "complete": true,
+      "observedAt": "2026-10-16T05:08:22.882Z"
+    }
+  ],
+  "facts": [
+    {
+      "eventKey": "v1:sha256:4b63ba4363ce6809464d24ec4e4ca5ad86eaa446af612b4fd1efba33c78f0e34",
+      "kind": "direct_contribution",
+      "repositoryId": "1420061458",
+      "occurredAt": "2026-10-15T02:15:20Z",
+      "contributionKey": "v1:sha256:4b63ba4363ce6809464d24ec4e4ca5ad86eaa446af612b4fd1efba33c78f0e34",
+      "families": [
+        "knowledge"
+      ]
+    },
+    {
+      "eventKey": "v1:sha256:d62288a1dfdb2b343cae1994ce2e6a344e6595ba1c77b2f6aac34590a0b1e98f",
+      "kind": "direct_contribution",
+      "repositoryId": "1420061458",
+      "occurredAt": "2026-10-15T09:16:09Z",
+      "contributionKey": "v1:sha256:d62288a1dfdb2b343cae1994ce2e6a344e6595ba1c77b2f6aac34590a0b1e98f",
+      "families": [
+        "craft",
+        "knowledge",
+        "verification"
+      ]
+    },
+    {
+      "eventKey": "v1:sha256:ac8b661ff514737f88bb9002ef53b735f0b4cd6eb9340e77811c09684a2e603c",
+      "kind": "direct_contribution",
+      "repositoryId": "1420061458",
+      "occurredAt": "2026-10-15T10:09:49Z",
+      "contributionKey": "v1:sha256:ac8b661ff514737f88bb9002ef53b735f0b4cd6eb9340e77811c09684a2e603c",
+      "families": [
+        "craft",
+        "knowledge",
+        "verification"
+      ]
+    },
+    {
+      "eventKey": "v1:sha256:a4cb67c1d1e97f8dc191dabc07e44a9ec85a040e8b38ab7993682353ea566a1a",
+      "kind": "direct_contribution",
+      "repositoryId": "1420061458",
+      "occurredAt": "2026-10-15T10:20:24Z",
+      "contributionKey": "v1:sha256:a4cb67c1d1e97f8dc191dabc07e44a9ec85a040e8b38ab7993682353ea566a1a",
+      "families": [
+        "craft",
+        "knowledge",
+        "verification"
+      ]
+    },
+    {
+      "eventKey": "v1:sha256:ef556d4caec3238fb301dbce82eb51f00f342842cd6ba1795ae18af0f2f32a9f",
+      "kind": "direct_contribution",
+      "repositoryId": "1420061458",
+      "occurredAt": "2026-10-15T10:37:38Z",
+      "contributionKey": "v1:sha256:ef556d4caec3238fb301dbce82eb51f00f342842cd6ba1795ae18af0f2f32a9f",
+      "families": [
+        "craft",
+        "knowledge",
+        "verification"
+      ]
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-10-15",
+      "byRepository": [
+        {
+          "repositoryId": "1420061458",
+          "familyUnits": {
+            "craft": 1,
+            "guard": 0,
+            "knowledge": 1,
+            "verification": 1,
+            "recovery": 0,
+            "operations": 0
+          }
+        }
+      ],
+      "xp": {
+        "validDay": 10,
+        "authoredContributionDay": 10,
+        "mergedPrs": 0,
+        "reviews": 0,
+        "releases": 0,
+        "triage": 0,
+        "total": 20
+      },
+      "creditedKeys": {
+        "mergedPrs": [],
+        "reviews": [],
+        "releases": []
+      },
+      "scopeId": "v1:sha256:d2d1529ba27e19c0e8022b3511537d82aa777d51c4cdfbddbfeacc98e3baaf32"
+    }
+  ],
+  "corrections": []
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "recordType": "profile",
+  "owner": {
+    "accountId": "76037656",
+    "storageRepositoryId": "1421634321"
+  },
+  "username": "JEONTAK",
+  "factionId": "bloomguard",
+  "classId": "adventurer",
+  "growth": {
+    "totalXp": "20",
+    "level": "1",
+    "xpIntoLevel": "20",
+    "xpForNextLevel": "100",
+    "appearanceStage": 0
+  },
+  "traits": {
+    "habitId": null,
+    "activityId": null
+  },
+  "badges": [],
+  "analysis": {
+    "phase": "ready",
+    "dataStatus": "ok",
+    "growthStartDate": "2026-07-18",
+    "evaluatedAt": "2026-10-16T05:08:22.882Z",
+    "cutoffExclusive": "2026-10-16",
+    "classWindowStart": "2026-07-18",
+    "recentWindowStart": "2026-09-16",
+    "knownRepositories": 22,
+    "hasUnobservedGaps": false
+  },
+  "familyScores": {
+    "craft": 0,
+    "guard": 0,
+    "knowledge": 0,
+    "verification": 0,
+    "recovery": 0,
+    "operations": 0
+  },
+  "recentActivity": {
+    "activeDays": 1,
+    "mergedPrs": 0,
+    "reviewedPrs": 0,
+    "reviewedCommits": 0,
+    "releases": 0,
+    "directContributions": 5,
+    "triageDays": 0
+  },
+  "character": {
+    "path": ".commitkin/character.png",
+    "sha256": "e007266566275ac8c7f3ddb8a1f63f67c76ca34ebb42d33df506365580ac9232",
+    "width": 192,
+    "height": 216
+  },
+  "details": {
+    "classification": {
+      "reason": "adventurer",
+      "family": null,
+      "ownership": null,
+      "distribution": null
+    },
+    "classPending": null,
+    "traitPending": {
+      "habit": null,
+      "activity": null
+    },
+    "earnedAchievements": []
+  }
+}
