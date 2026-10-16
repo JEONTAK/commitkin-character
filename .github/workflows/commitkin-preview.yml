@@ -37,7 +37,7 @@ jobs:
           }
           NODE
       - name: Preview the saved character without publishing
-        uses: JEONTAK/commitkin@735f54311584f1f3b44fec0491f4e3d99eaed5dc
+        uses: JEONTAK/commitkin@603760d17a48db6bdec36db62e433f1e08f6a9ce
         with:
           token: ${{ github.token }}
           # Existing records preserve the permanent faction. Never send a new
