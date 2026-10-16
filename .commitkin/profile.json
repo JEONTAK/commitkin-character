@@ -50,9 +50,9 @@
   },
   "character": {
     "path": ".commitkin/character.png",
-    "sha256": "e007266566275ac8c7f3ddb8a1f63f67c76ca34ebb42d33df506365580ac9232",
-    "width": 192,
-    "height": 216
+    "sha256": "2737ffb0d202744a91c20d6e38d5d14248ee1a0c6a273483230a810c5c6d6282",
+    "width": 1254,
+    "height": 1254
   },
   "details": {
     "classification": {
