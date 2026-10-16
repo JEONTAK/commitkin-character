@@ -4,7 +4,11 @@ User-owned configuration for [Commitkin](https://github.com/JEONTAK/commitkin), 
 
 This is the explicitly reviewed ordinary-repository author installation: `JEONTAK/commitkin-character`, repository ID `1421634321`, owner account ID `76037656`. Other users install in actual public personal forks of the product repository. Renaming, transferring or recreating this repository requires a separate identity review.
 
-## Current mode: manual, read-only preview
+## One-time initialization authorized
+
+JEONTAK explicitly confirmed permanent **Bloomguard** selection on 2026-10-16. The existing manual preview workflow is temporarily pinned to that first choice with job-local `contents: write` and explicit publication. The reviewed runtime requires verified empty record history and rejects these first-choice inputs after records exist. No profile publication or automatic execution is enabled. After this one manual initialization, the workflow will return to read-only dry-run without faction/confirmation inputs. The statements below describe its previous preview-only mode; no successful saved snapshot is claimed until verified from the publication commit.
+
+## Previous mode: manual, read-only preview
 
 Run **Commitkin author preview** manually in Actions. The temporary preview faction is used in memory only. The workflow uses this repository's basic `GITHUB_TOKEN`, `contents: read`, a reviewed full source SHA and literal `dry-run: 'true'`. No permanent faction, growth record, display projection or PNG is saved. There is no schedule, push hook, automatic sync or PAT.
 
